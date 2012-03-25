@@ -1,7 +1,7 @@
 Flink
 =====
 
-Flink is an attempt at bringing the Enumerable from .NET to PHP.
+Flink is an attempt at bringing .NET's Enumerable to PHP.
 
 Requirements
 ------------
